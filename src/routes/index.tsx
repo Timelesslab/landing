@@ -1,6 +1,6 @@
 import { localeToNativeNameMap } from '@i18n/constants'
 import { i18nContext } from '@i18n/context'
-import type { I18nDictionary, Locale } from '@i18n/types'
+import type { Locale } from '@i18n/types'
 import { A } from '@solidjs/router'
 import { For, useContext } from 'solid-js'
 
