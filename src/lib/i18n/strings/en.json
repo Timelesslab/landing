@@ -1,0 +1,28 @@
+{
+  "title": "Timeless Lab",
+  "home": {
+    "about": {
+      "title": "About",
+      "body": "We are an independent research lab dedicated to harnessing the power of AI to elevate human productivity in everyday life. Our mission is to create AI-native products that serve as the ultimate assistants for enhancing efficiency, supporting tasks, and freeing up time for more meaningful pursuits. Currently, we are diving into a suite of innovative tools, with our first product already in development."
+    },
+    "careers": {
+      "title": "Careers",
+      "body": {
+        "start": "Join our small, self-funded, and fully distributed team as we work together to shape the future of AI-powered solutions. Based in <A>Shanghai, China</A>, we are looking for passionate individuals who share our vision.",
+        "end": "If you don't see a position that suits you but feels aligned with our goals, we'd love to hear from you. Please send your resume and portfolio to <A>careers@timelesslab.ai</A>. Your ideas and expertise could be the perfect addition to our team!"
+      }
+    },
+    "hiring": {
+      "title": "We're now hiring 🔥",
+      "open": {
+        "mlEngineer": "AI / Machine Learning Engineer",
+        "fullStackEngineer": "Full Stack Engineer"
+      },
+      "view": "View job details"
+    },
+    "contact": {
+      "title": "Contact",
+      "body": "Got questions or want to collaborate? Reach out to us anytime via <A>hello@timelesslab.ai</A>. We're here to chat!"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/localazy/cli-schema/master/localazy.json",
+  "upload": {
+    "type": "json",
+    "files": "src/lib/i18n/strings/en.json"
+  },
+  "download": {
+    "files": "src/lib/i18n/strings/${lang}.json",
+    "includeSourceLang": true,
+    "langAliases": {
+      "zh-Hans-CN": "zh-CN"
+    }
+  }
+}

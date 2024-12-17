@@ -2,19 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background-rgb: 214, 219, 220;
-  --foreground-rgb: 0, 0, 0;
+html {
+  @apply bg-black text-zinc-100 font-mono text-base;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-rgb: 0, 0, 0;
-    --foreground-rgb: 255, 255, 255;
-  }
+section {
+  @apply flex flex-col gap-y-6;
 }
 
-body {
-  background: rgb(var(--background-rgb));
-  color: rgb(var(--foreground-rgb));
+section p {
+  @apply text-zinc-300;
+}
+
+h2 {
+  @apply text-3xl font-bold;
 }
