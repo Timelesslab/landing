@@ -6,7 +6,6 @@
   },
   "download": {
     "files": "src/lib/i18n/strings/${lang}.json",
-    "includeSourceLang": true,
     "langAliases": {
       "zh-Hans-CN": "zh-CN"
     }
