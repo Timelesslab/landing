@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <title>{t.title()}</title>
 
-      <main class='mx-auto max-w-7xl pb-20 flex flex-col gap-y-20 px-6'>
+      <main class='mx-auto max-w-5xl pb-20 flex flex-col gap-y-20 px-6'>
         <picture>
           <source
             srcset='/hero@2x.webp'

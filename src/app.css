@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 html {
-  @apply bg-black text-zinc-100 font-mono text-base;
+  @apply bg-[#05060C] text-zinc-100 font-mono text-base;
 }
 
 section {
