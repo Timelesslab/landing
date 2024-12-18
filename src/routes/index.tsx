@@ -56,9 +56,9 @@ export default function Home() {
                 {([key, name]) => (
                   <li class='flex items-center justify-between gap-x-6'>
                     {name()}
-                    <A href={`/${key}`} class='underline' target='_blank'>
+                    {/* <A href={`/${key}`} class='underline text-right' target='_blank'>
                       {t.home.hiring.view()}
-                    </A>
+                    </A> */}
                   </li>
                 )}
               </For>
