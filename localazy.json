@@ -8,6 +8,7 @@
     "files": "src/lib/i18n/strings/${lang}.json",
     "langAliases": {
       "zh-Hans-CN": "zh-CN"
-    }
+    },
+    "includeSourceLang": true
   }
 }
